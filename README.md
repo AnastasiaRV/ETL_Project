@@ -17,6 +17,8 @@ Group Members: Anastasia Valdes, Saya Uchiyama, Michael Harris, Kevin Eugene
 Source: [Nashville Land Parcels]( https://www.kaggle.com/alehe90/nashville-land-parcels)
 Source: [Nashville Housing Data]( https://www.kaggle.com/tmthyjames/nashville-housing-data)
 
+NOTE: The data files are too large to upload to GitHub. 
+
 ***
 
 ## Description of Datasets
