@@ -176,8 +176,12 @@ CREATE TABLE parcel (
 	);
 ```
 ***
-* Load clean_parcels.csv file into the database
-* Load clean_housing file into the database
+## Load clean_parcels.csv file into the database
+![ Parcel_screenshot.png]( Parcel_screenshot.png)
+
+## Load clean_housing file into the database
+![ Housing_screenshot.png]( Housing_screenshot.png)
+
 [Back to top](#etl_project)
 
 
