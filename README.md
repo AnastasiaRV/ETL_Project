@@ -103,7 +103,9 @@ assess_land_improved money
 total_appraisal_value_improved money
 sq_footage_improved float8
 custom_bldg_type varchar
-land_area_acres float8```
+land_area_acres float8
+```
+
 ***
 
 [Back to top](#etl_project)
