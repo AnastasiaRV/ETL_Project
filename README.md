@@ -51,7 +51,7 @@ Postgres SQL server used for the database environment.
 
 [Quickdatabasediagrams]( https://www.quickdatabasediagrams.com/) was used to generate ERD
 
-![ Nash_Parcels_Sales_db_diagram]( Nash_Parcels_Sales_db_diagram)
+![ Nash_Parcels_Sales_db_diagram.png]( Nash_Parcels_Sales_db_diagram.png)
 
 ERD code
 ***
