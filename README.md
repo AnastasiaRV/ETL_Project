@@ -24,8 +24,6 @@ Source: [Nashville Housing Data]( https://www.kaggle.com/tmthyjames/nashville-ho
 * nashville_20190827200234.csv - this file contains data scraped from padctn.org by Drew Lehe and posted on Kaggle.com. Includes residential land parcels, multifamily units, commercial, vacant, and industrial space. Sales from 2015-July 2019 were scraped from http://www.padctn.org/services/recent-sales/ Information about each parcel of land was scraped from its "Printable Property Report Card," example: www.padctn.org/prc/property/1/card/1.
 * Nashville_housing_data_2013_2016.csv - this file contains valuation data for residential homes in Nashville Tennessee. Data posted by tmthyjames, no source attributed. 
 
-[Back to top](#etl_project)
-
 ***
 
 ## Transformation of Data 
@@ -40,8 +38,6 @@ Data transformation was accomplished with jupyter using Pandas.
 ## Selection of Relationship Database Environment
 
 Postgres SQL server used for the database environment. 
-
-[Back to top](#etl-project)
 
 ***
 
@@ -110,7 +106,7 @@ custom_bldg_type varchar
 land_area_acres float8```
 ***
 
-[Back to top](#etl-project)
+[Back to top](#etl_project)
 
 ***
 
@@ -178,7 +174,7 @@ CREATE TABLE parcel (
 ***
 * Load clean_parcels.csv file into the database
 * Load clean_housing file into the database
-[Back to top](#etl-project)
+[Back to top](#etl_project)
 
 
 
