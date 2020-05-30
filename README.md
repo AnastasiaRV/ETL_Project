@@ -5,10 +5,10 @@ Group Members: Anastasia Valdes, Saya Uchiyama, Michael Harris, Kevin Eugene
 
 1. [Selection of Datasets](#selection-of-datasets)
 2. [Description of Datasets](#description-of-datasets)
-3. [Selection of Database](#selection-of-database)
+3. [Transformation of Data](#transformation-of-data)
+4. [Selection of Relationship Database Environment](#selection-of-relationship-database-environment)
 4. [ERD](#erd)
 5. [Loading into PostgresSQL](#loading-into-postgressql)
-6. [Confirmation of Data Integrity](#confirmation-of-data-integrity)
 
 ***
 
